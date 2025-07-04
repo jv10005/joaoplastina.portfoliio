@@ -3,7 +3,7 @@
 #### Habilidades Técnicas: SQL, DAX, Python
 
 ## Educação
-Administração
+Administração | UNIFIL (_dezembro de 2020_)
 
 ## Experiências
 **Analista de B.I @ Conasa Infraestrutura**
