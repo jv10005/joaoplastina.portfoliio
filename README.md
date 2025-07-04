@@ -1,6 +1,5 @@
 # Analista de Dados
 
-<img src="assets/profile_circle.png" style="width:100px; height:100px; border-radius:50%;" alt="Foto de perfil">
 
 #### Habilidades Técnicas: SQL, DAX, Python
 
