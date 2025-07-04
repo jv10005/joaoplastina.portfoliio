@@ -1,5 +1,7 @@
 # Analista de Dados
 
+<img src="assets/profile.jpg" style="width:100px; height:100px; border-radius:50%;" alt="Foto de perfil">
+
 #### Habilidades Técnicas: SQL, DAX, Python
 
 ## Educação
@@ -18,6 +20,3 @@ Administração | UNIFIL (_dezembro de 2020_)
   - Participação no planejamento estratégico fornecendo insights a partir da análise de dados
   - Acompanhamento do comportamento de vendas
   - Monitoramento dos resultados comerciais e ajustes conforme necessário
-
-
-
